@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.AssemblyInfo.cs
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\bin\Debug\net6.0\modifiers.encapsulation.exe
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\bin\Debug\net6.0\modifiers.encapsulation.deps.json
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\bin\Debug\net6.0\modifiers.encapsulation.runtimeconfig.json
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\bin\Debug\net6.0\modifiers.encapsulation.dll
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\bin\Debug\net6.0\modifiers.encapsulation.pdb
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.dll
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\refint\modifiers.encapsulation.dll
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.pdb
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\modifiers.encapsulation.genruntimeconfig.cache
+C:\Users\Hp\Desktop\modifiers.encapsulation\modifiers.encapsulation\obj\Debug\net6.0\ref\modifiers.encapsulation.dll
